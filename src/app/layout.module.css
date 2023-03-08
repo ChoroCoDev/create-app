@@ -1,0 +1,31 @@
+.header {
+  display: flex;
+  border: 1px;
+  justify-content: center;
+}
+
+.container {
+  padding: 10px;
+  display: flex;
+  flex-direction: row;
+  align-items: stretch;
+  justify-content: center;
+}
+
+.linkButton{
+  padding:2px;
+  margin:2px;
+  width: 10%;
+  color: blue;
+}
+
+.linkButton :hover{
+  background-color: blue;
+  color:white;
+}
+
+.title{
+  display: flex;
+  justify-content: center;
+}
+
