@@ -1,6 +1,7 @@
 const useTokens = [500, 375, 495, 825]
 const weaponLevels = [610, 615, 620, 620, 630, 635]
 const armourLevels = [610, 610, 620, 620, 630, 630]
+
 export const weaponNames = ['新式', '極蛮神', 'トークン', '新式強化', 'トークン強化', 'レイド']
 export const armourNames = ['新式', 'Ｎレイド', 'トークン', '新式強化', 'トークン強化', 'レイド']
 

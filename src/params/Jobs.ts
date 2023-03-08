@@ -1,7 +1,5 @@
-export {}
-
-const Role: Job.Role[] = ['Tank', 'Healer', 'DPS']
-const Range: Job.Range[] = ['Melee', 'Ranged', 'Magic']
+export const Roles: ['Tank', 'Healer', 'DPS'] = ['Tank', 'Healer', 'DPS']
+export const Ranges: ['Melee', 'Ranged', 'Magic'] = ['Melee', 'Ranged', 'Magic']
 
 // なんて略すのがいいのか調べる。
 // 付加情報？

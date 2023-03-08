@@ -1,0 +1,13 @@
+.container {
+  justify-content: left;
+  margin-left: 2%;
+}
+
+.characterRow {
+  margin:12px
+}
+
+.selecter {
+  min-width: 180px;
+  width: 100%;
+}
